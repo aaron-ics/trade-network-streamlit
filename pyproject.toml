@@ -17,4 +17,5 @@ dependencies = [
     "scikit-learn>=1.7.0",
     "st-cytoscape>=0.0.5",
     "plotly>=6.1.2",
+    "pandas>=2.3.0",
 ]

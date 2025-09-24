@@ -13,7 +13,7 @@ Exploratory Streamlit application that visualises fictitious buyer-seller relati
 - `app.py` – Streamlit interface for configuring and exploring the trade network.
 - `src/invoices/invoice_simulator.py` – Invoice generator, relationship aggregation, and helper metrics.
 - `utils.py` – Presentation helpers used in the UI.
-- `nx-explore.ipynb` – Notebook scratchpad for graph experiments.
+- `nb/` – Notebooks for NetworkX experiments and analysis (see `nb/README.md`).
 
 ## Getting Started
 1. **Install uv (if you don't already have it)**
