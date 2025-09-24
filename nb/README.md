@@ -6,5 +6,5 @@ This directory houses exploratory notebooks that experiment with NetworkX and th
 
 | Notebook | Focus |
 | --- | --- |
-| `modelling_invoices_using_networkx.ipynb` | Builds buyer–seller graphs from simulated invoices and benchmarks layouts, centrality metrics, and JSON exports. |
+| `network-credit-score.ipynb` | Builds buyer–seller graphs from simulated invoices and benchmarks layouts, centrality metrics, and JSON exports. |
 | `nx-explore.ipynb` | Quick experiments with NetworkX graph generators, subgraphs, and traversal helpers. |
